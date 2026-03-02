@@ -1,0 +1,3799 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.43416871,29.67944359 ]
+    },
+    "properties": {
+    "id":3,
+    "location":"Santa Fe College Building K",
+    "address":"3000 NW 83 St",
+    "paperNumber":45,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.43401284,29.6805731 ]
+    },
+    "properties": {
+    "id":4,
+    "location":"Bldg P Santa Fe Pedestrial Rack",
+    "address":"3000 NW 83 St",
+    "paperNumber":45,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.43308056,29.68015615 ]
+    },
+    "properties": {
+    "id":5,
+    "location":"Santa Fe Food Court",
+    "address":"3000 NW 83 St",
+    "paperNumber":30,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.43235143,29.67950497 ]
+    },
+    "properties": {
+    "id":6,
+    "location":"Fordyce Student Center Bldg R",
+    "address":"3000 NW 83 St",
+    "paperNumber":45,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.35016027,29.64854417 ]
+    },
+    "properties": {
+    "id":7,
+    "location":"Gator Dining Center",
+    "address":"114 Rec Ctr",
+    "paperNumber":30,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3582655,29.6495307 ]
+    },
+    "properties": {
+    "id":8,
+    "location":"Bruton-Geer Hall",
+    "address":"351 Village Dr",
+    "paperNumber":100,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3575725,29.648325 ]
+    },
+    "properties": {
+    "id":9,
+    "location":"Fraternity Row Bus Stop",
+    "address":"410 Fraternity Dr",
+    "paperNumber":50,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3510239,29.6340638 ]
+    },
+    "properties": {
+    "id":10,
+    "location":"UF Small Animal Hospital",
+    "address":"2089 SW 16th Ave",
+    "paperNumber":25,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.349787,29.6477279 ]
+    },
+    "properties": {
+    "id":11,
+    "location":"Tolbert Bus Stop",
+    "address":"114 Rec Ctr, Gainesville",
+    "paperNumber":30,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3495939,29.6510849 ]
+    },
+    "properties": {
+    "id":12,
+    "location":"Ben Hill Griffin Stadium",
+    "address":"157 Gale Lemerand Dr",
+    "paperNumber":250,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3488171,29.6341177 ]
+    },
+    "properties": {
+    "id":13,
+    "location":"Veterinary Academic Building",
+    "address":"1945 SW 16th Ave",
+    "paperNumber":25,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3477972,29.648473 ]
+    },
+    "properties": {
+    "id":14,
+    "location":"Weil Hall East",
+    "address":"1949 Stadium Rd",
+    "paperNumber":150,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3473056,29.6478526 ]
+    },
+    "properties": {
+    "id":15,
+    "location":"College of Journalism",
+    "address":"1885 Stadium Rd",
+    "paperNumber":125,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3452759,29.6390315 ]
+    },
+    "properties": {
+    "id":16,
+    "location":"College of Dentistry",
+    "address":"1395 Center Dr",
+    "paperNumber":100,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3442171,29.6485514 ]
+    },
+    "properties": {
+    "id":17,
+    "location":"Firehouse Subs",
+    "address":"330 Newell Dr",
+    "paperNumber":150,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3433571,29.6463671 ]
+    },
+    "properties": {
+    "id":18,
+    "location":"Rawlings Bus Stop",
+    "address":"651 Newell Dr",
+    "paperNumber":100,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3430232,29.6510216 ]
+    },
+    "properties": {
+    "id":19,
+    "location":"Library West",
+    "address":"1545 W University Ave",
+    "paperNumber":220,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34253197,29.64061564 ]
+    },
+    "properties": {
+    "id":20,
+    "location":"Shand's East Parking",
+    "address":"1600 SW Archer Rd",
+    "paperNumber":50,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34238267,29.6372308 ]
+    },
+    "properties": {
+    "id":21,
+    "location":"Shand's Parking Garage #6",
+    "address":"1329 SW 16th St",
+    "paperNumber":45,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.342125,29.6498698 ]
+    },
+    "properties": {
+    "id":24,
+    "location":"Peabody Hall",
+    "address":"1500 Union Rd",
+    "paperNumber":null,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34120026,29.64936401 ]
+    },
+    "properties": {
+    "id":25,
+    "location":"Carleton Auditorium",
+    "address":"1475 Union Rd",
+    "paperNumber":120,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34107298,29.65026422 ]
+    },
+    "properties": {
+    "id":26,
+    "location":"Criser Hall",
+    "address":"1478 Union Rd",
+    "paperNumber":200,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33810152,29.64719066 ]
+    },
+    "properties": {
+    "id":27,
+    "location":"Norman Hall North",
+    "address":"1221 SW 5th Ave",
+    "paperNumber":50,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3373905,29.6458884 ]
+    },
+    "properties": {
+    "id":28,
+    "location":"Parking Garage #8 (Norman)",
+    "address":"618 SW 12th St",
+    "paperNumber":50,
+    "type":"modular"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.49478745,29.65568727 ]
+    },
+    "properties": {
+    "id":31,
+    "location":"Jonesville Publix",
+    "address":"14130 W Newberry Rd",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.49423923,29.65555495 ]
+    },
+    "properties": {
+    "id":32,
+    "location":"Jonesville Liquor & Wine",
+    "address":"14128 W Newberry Rd",
+    "paperNumber":10,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.47951472,29.65661323 ]
+    },
+    "properties": {
+    "id":33,
+    "location":"Dave's New York Deli",
+    "address":"12921 SW 1st Rd #105",
+    "paperNumber":10,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.44010215,29.69175182 ]
+    },
+    "properties": {
+    "id":35,
+    "location":"Spring Hill Publix",
+    "address":"9200 NW 39th Ave",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.438951,29.606398 ]
+    },
+    "properties": {
+    "id":36,
+    "location":"Haile Village Spa",
+    "address":"5207 SW 91st Terrace",
+    "paperNumber":10,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.436537,29.629095 ]
+    },
+    "properties": {
+    "id":37,
+    "location":"Haile Plantation Publix",
+    "address":"2755 SW 91st St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.43395224,29.68024389 ]
+    },
+    "properties": {
+    "id":38,
+    "location":"Santa Fe Student Services",
+    "address":"3000 NW 83 St",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.43209771,29.68248122 ]
+    },
+    "properties": {
+    "id":39,
+    "location":"Lawrence Tyree Library at SFC",
+    "address":"3000 NW 83 St Building Y",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.425132,29.663826 ]
+    },
+    "properties": {
+    "id":40,
+    "location":"Newberry Square Publix",
+    "address":"1200 NW 76th Blvd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.42959347,29.68295271 ]
+    },
+    "properties": {
+    "id":41,
+    "location":"The Crossings at Santa Fe",
+    "address":"3205 NW 83rd St",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.422645,29.660685 ]
+    },
+    "properties": {
+    "id":42,
+    "location":"Quality Inn",
+    "address":"7516 W Newberry Rd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.421319,29.657351 ]
+    },
+    "properties": {
+    "id":43,
+    "location":"Park Place Car Wash",
+    "address":"7404 NW 4th Blvd",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.420578,29.601652 ]
+    },
+    "properties": {
+    "id":44,
+    "location":"Publix at Tower Square",
+    "address":"5801 SW 75th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.42020405,29.6591282 ]
+    },
+    "properties": {
+    "id":45,
+    "location":"Newberry Road Imports",
+    "address":"7349 W Newberry Rd",
+    "paperNumber":10,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.42184641,29.62812938 ]
+    },
+    "properties": {
+    "id":46,
+    "location":"Bellamy Grand Apartments",
+    "address":"2625 SW 75th St",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.41683242,29.66125834 ]
+    },
+    "properties": {
+    "id":47,
+    "location":"La Quinta by Wyndham Gainesville",
+    "address":"920 Northwest 69th Terrace",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4121267,29.686242 ]
+    },
+    "properties": {
+    "id":48,
+    "location":"Magnolia Ridge Rehabilitation Center",
+    "address":"6517 NW 39th Ave",
+    "paperNumber":100,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.29310926,29.49700912 ]
+    },
+    "properties": {
+    "id":49,
+    "location":"Cafe Risque in Micanopy",
+    "address":"17035 Co Rd 234",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.36040757,29.60451218 ]
+    },
+    "properties": {
+    "id":50,
+    "location":"Oak Hammock at UF",
+    "address":"4620 SW 25th Blvd",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.37920792,29.62509468 ]
+    },
+    "properties": {
+    "id":51,
+    "location":"Publix/Butler Esplanade",
+    "address":"3100 SW 35th Blvd",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38259289,29.6149771 ]
+    },
+    "properties": {
+    "id":52,
+    "location":"Hampton Inn",
+    "address":"4225 SW 40th Blvd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34806288,29.67733713 ]
+    },
+    "properties": {
+    "id":53,
+    "location":"Madison Point Apts",
+    "address":"2701 NW 23 Blvd",
+    "paperNumber":10,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34854601,29.6786787 ]
+    },
+    "properties": {
+    "id":54,
+    "location":"Cobblestone Apts",
+    "address":"2801 NW 23rd Blvd",
+    "paperNumber":15,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.39563724,29.690274 ]
+    },
+    "properties": {
+    "id":55,
+    "location":"One Love Cafe",
+    "address":"4989 NW 40th Place",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.43635287,29.69200697 ]
+    },
+    "properties": {
+    "id":56,
+    "location":"Health Park Complex",
+    "address":"4101 NW 89th Blvd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34498746,29.70373448 ]
+    },
+    "properties": {
+    "id":57,
+    "location":"Creekwood Circle K",
+    "address":"5310 NW 13th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.408114,29.65766 ]
+    },
+    "properties": {
+    "id":58,
+    "location":"Books-A-Million",
+    "address":"6111 W Newberry Rd",
+    "paperNumber":10,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.40370006,29.68913316 ]
+    },
+    "properties": {
+    "id":59,
+    "location":"Coldwell Banker M. M. Parrish Realtors",
+    "address":"5830 NW 39th Ave",
+    "paperNumber":10,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.39638797,29.65844674 ]
+    },
+    "properties": {
+    "id":60,
+    "location":"Block Advisors",
+    "address":"5010 Newberry Rd Ste A",
+    "paperNumber":10,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.39864344,29.68830767 ]
+    },
+    "properties": {
+    "id":61,
+    "location":"Donut Connection/Timber Village",
+    "address":"5205 NW 39th Ave",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.39545705,29.62662478 ]
+    },
+    "properties": {
+    "id":62,
+    "location":"Celebration Point - Sports Complex",
+    "address":"4870 Celebration Pointe Ave",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.394844,29.613122 ]
+    },
+    "properties": {
+    "id":63,
+    "location":"Plaza Rehab",
+    "address":"4842 SW Archer Rd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.39393543,29.62087614 ]
+    },
+    "properties": {
+    "id":64,
+    "location":"Choreograph Gainesville",
+    "address":"3483 SW 45th St",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.39374882,29.68904278 ]
+    },
+    "properties": {
+    "id":65,
+    "location":"Ficare Fed Credit Union",
+    "address":"4720 NW 39th Ave",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.39023355,29.70249122 ]
+    },
+    "properties": {
+    "id":66,
+    "location":"Hunter's Crossing Publix",
+    "address":"5200 NW 43rd St",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38999634,29.67574164 ]
+    },
+    "properties": {
+    "id":67,
+    "location":"43rd St Deli",
+    "address":"4401 NW 25th Place",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38963187,29.70117462 ]
+    },
+    "properties": {
+    "id":68,
+    "location":"Kangaroo/McDonalds",
+    "address":"5110 NW 43rd St",
+    "paperNumber":15,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38936767,29.70441057 ]
+    },
+    "properties": {
+    "id":69,
+    "location":"Starbucks Coffee 43rd",
+    "address":"5480 NW 43rd St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38892794,29.65457562 ]
+    },
+    "properties": {
+    "id":70,
+    "location":"SE Integrated Med Pharmacy",
+    "address":"4343 W Newberry Rd",
+    "paperNumber":100,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38844497,29.70286691 ]
+    },
+    "properties": {
+    "id":71,
+    "location":"Hunter's Crossing Chevron",
+    "address":"5221 NW 43rd St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38752058,29.67214892 ]
+    },
+    "properties": {
+    "id":72,
+    "location":"Millhopper Publix",
+    "address":"NW 16th Blvd & NW 43rd St",
+    "paperNumber":100,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38751002,29.67199615 ]
+    },
+    "properties": {
+    "id":73,
+    "location":"Leonardo's Millhopper",
+    "address":"4131 NW 16th Blvd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38696263,29.67202948 ]
+    },
+    "properties": {
+    "id":74,
+    "location":"The Bagel Bakery",
+    "address":"4113 NW 16th Blvd",
+    "paperNumber":40,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.386517,29.654152 ]
+    },
+    "properties": {
+    "id":75,
+    "location":"Life South Community Blood Center",
+    "address":"4039 W Newberry Rd",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38524217,29.63061765 ]
+    },
+    "properties": {
+    "id":76,
+    "location":"Señor Bubbles Laundromat",
+    "address":"4080 SW 24th Ave",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38453048,29.67488406 ]
+    },
+    "properties": {
+    "id":77,
+    "location":"The Atrium",
+    "address":"2431 NW 41st St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.383401,29.634993 ]
+    },
+    "properties": {
+    "id":78,
+    "location":"Gainesville Health and Rehabilitation Center",
+    "address":"4000 SW 20th Ave",
+    "paperNumber":75,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38327557,29.61928294 ]
+    },
+    "properties": {
+    "id":79,
+    "location":"Exxon SW Driver Station",
+    "address":"3960 SW Archer Rd",
+    "paperNumber":40,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38217604,29.62188656 ]
+    },
+    "properties": {
+    "id":81,
+    "location":"Publix at Butler Plaza",
+    "address":"3930 SW Archer Rd",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.37647359,29.63346039 ]
+    },
+    "properties": {
+    "id":83,
+    "location":"On 20",
+    "address":"3527 SW 20th Ave",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.37477828,29.60036454 ]
+    },
+    "properties": {
+    "id":84,
+    "location":"Butler Plaza Circle K",
+    "address":"3509 SW Williston Rd",
+    "paperNumber":40,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.374374,29.651167 ]
+    },
+    "properties": {
+    "id":85,
+    "location":"Chuze Fitness",
+    "address":"3441 W University Ave",
+    "paperNumber":5,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.37556719,29.6387134 ]
+    },
+    "properties": {
+    "id":86,
+    "location":"UF Health | Florida Surgical Center",
+    "address":"3480 Hull Rd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.373546,29.6367524 ]
+    },
+    "properties": {
+    "id":88,
+    "location":"Hilton UF Conference Center",
+    "address":"1714 SW 34th St/Hull Rd",
+    "paperNumber":100,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.373308,29.652322 ]
+    },
+    "properties": {
+    "id":89,
+    "location":"Sunflower Health Food",
+    "address":"3424 W University Ave",
+    "paperNumber":10,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.37287255,29.60509436 ]
+    },
+    "properties": {
+    "id":90,
+    "location":"Williston Plaza Publix",
+    "address":"5200 SW 34th St",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.37152813,29.65132663 ]
+    },
+    "properties": {
+    "id":91,
+    "location":"Westgate Publix",
+    "address":"3315 W University Ave",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.37243124,29.60361699 ]
+    },
+    "properties": {
+    "id":92,
+    "location":"Subway",
+    "address":"3424 SW Williston Rd",
+    "paperNumber":35,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.37234304,29.62226429 ]
+    },
+    "properties": {
+    "id":93,
+    "location":"Circle K",
+    "address":"3525 SW 34th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.37203357,29.63470784 ]
+    },
+    "properties": {
+    "id":94,
+    "location":"Florida Department of Agriculture and Consumer Services",
+    "address":"1911 SW 34th St",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.37028403,29.69978177 ]
+    },
+    "properties": {
+    "id":95,
+    "location":"Hazel Heights Texaco",
+    "address":"4909 NW 34th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.37023708,29.63725686 ]
+    },
+    "properties": {
+    "id":96,
+    "location":"Harn Museum",
+    "address":"3259 Hull Rd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.36931466,29.64242216 ]
+    },
+    "properties": {
+    "id":97,
+    "location":"UF Counseling and Wellness Center",
+    "address":"3190 Radio Rd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.36931113,29.63530817 ]
+    },
+    "properties": {
+    "id":98,
+    "location":"Philips Center",
+    "address":"3201 Hull Rd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.36704666,29.64284003 ]
+    },
+    "properties": {
+    "id":99,
+    "location":"UF Mail & Documents",
+    "address":"3030 Radio Rd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.366458,29.6350036 ]
+    },
+    "properties": {
+    "id":100,
+    "location":"University of Florida Entomology and Nematology Department",
+    "address":"1881 Natural Area Dr",
+    "paperNumber":15,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.36517757,29.65005618 ]
+    },
+    "properties": {
+    "id":101,
+    "location":"Mark Bostick Golf Course",
+    "address":"2800 SW 2nd Ave",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.36370894,29.6276839 ]
+    },
+    "properties": {
+    "id":102,
+    "location":"Oxford Manor Apts",
+    "address":"2777 SW Archer Rd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3637449,29.6400348 ]
+    },
+    "properties": {
+    "id":103,
+    "location":"Microbiology Bldg",
+    "address":"1355 Museum Dr",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.36348811,29.61678488 ]
+    },
+    "properties": {
+    "id":104,
+    "location":"Lexington Crossing Apts",
+    "address":"3700 SW 27th St",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.36254187,29.62974749 ]
+    },
+    "properties": {
+    "id":105,
+    "location":"University Commons Apts",
+    "address":"2601 SW Archer Rd",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3606568,29.64527183 ]
+    },
+    "properties": {
+    "id":106,
+    "location":"Baby Gator",
+    "address":"793 Corry Cir",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.35924103,29.63662328 ]
+    },
+    "properties": {
+    "id":107,
+    "location":"USDA",
+    "address":"1600 SW 23rd Dr",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3591513,29.6371333 ]
+    },
+    "properties": {
+    "id":108,
+    "location":"Food/Environment Toxicology Lab",
+    "address":"1642 SW 23rd Dr",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3577549,29.649711 ]
+    },
+    "properties": {
+    "id":109,
+    "location":"Alfred A. Ring Tennis Complex",
+    "address":"2325 SW 2nd Ave",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3565016,29.6349747 ]
+    },
+    "properties": {
+    "id":110,
+    "location":"Electric Substation",
+    "address":"2320 SW Archer Rd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3538841,29.6485578 ]
+    },
+    "properties": {
+    "id":111,
+    "location":"Athletic Center",
+    "address":"2214 Stadium Rd",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.35409469,29.64781588 ]
+    },
+    "properties": {
+    "id":112,
+    "location":"Keys Residential Complex",
+    "address":"44 Keys Residential College",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3527153,29.6485178 ]
+    },
+    "properties": {
+    "id":113,
+    "location":"Student Healthcare Center",
+    "address":"2140 Stadium Rd",
+    "paperNumber":null,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3510524,29.6485015 ]
+    },
+    "properties": {
+    "id":115,
+    "location":"Van Fleet Hall",
+    "address":"2074 Stadium Roa",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.350596,29.6423663 ]
+    },
+    "properties": {
+    "id":116,
+    "location":"Parking Garage 14",
+    "address":"1104 Gale Lemerand Dr ",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3502966,29.6523121 ]
+    },
+    "properties": {
+    "id":117,
+    "location":"Hillel Jewish Center",
+    "address":"2020 W University Ave",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34958214,29.65246899 ]
+    },
+    "properties": {
+    "id":118,
+    "location":"Alumni Affairs",
+    "address":"1938 W University Ave",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3495396,29.6401537 ]
+    },
+    "properties": {
+    "id":119,
+    "location":"Clinical & Translational Science Bldg",
+    "address":"2004 Mowry Rd (side door facing garage)",
+    "paperNumber":100,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.35393335,29.65170371 ]
+    },
+    "properties": {
+    "id":120,
+    "location":"Earl & Christy Powell Hall",
+    "address":"2151 W University Ave",
+    "paperNumber":null,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3491932,29.6522574 ]
+    },
+    "properties": {
+    "id":121,
+    "location":"Emerson Hall",
+    "address":"1938 W University Ave",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34779116,29.64549436 ]
+    },
+    "properties": {
+    "id":122,
+    "location":"Reitz Union",
+    "address":"655 Reitz Union Dr",
+    "paperNumber":200,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34774556,29.65005688 ]
+    },
+    "properties": {
+    "id":123,
+    "location":"Yon Hall",
+    "address":"1908 Stadium Rd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3474025,29.6522667 ]
+    },
+    "properties": {
+    "id":124,
+    "location":"Lutheran Church",
+    "address":"1826 W University Ave",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34658625,29.65122421 ]
+    },
+    "properties": {
+    "id":125,
+    "location":"Murphree Hall",
+    "address":"110 Fletcher Dr",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34627788,29.64353132 ]
+    },
+    "properties": {
+    "id":126,
+    "location":"Psychology Bldg",
+    "address":"945 Center Dr",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3451941,29.6347903 ]
+    },
+    "properties": {
+    "id":127,
+    "location":"Children's Medical Services",
+    "address":"1701 SW 16th Ave",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3445882,29.6542331 ]
+    },
+    "properties": {
+    "id":128,
+    "location":"College Park Midtown Apts",
+    "address":"303 NW 17th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3443559,29.6446695 ]
+    },
+    "properties": {
+    "id":129,
+    "location":"Dickison Hall (No Box)",
+    "address":"1659 Museum Rd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34393379,29.65223811 ]
+    },
+    "properties": {
+    "id":130,
+    "location":"Rally House",
+    "address":"1629 W University Ave",
+    "paperNumber":null,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34572064,29.65391957 ]
+    },
+    "properties": {
+    "id":131,
+    "location":"Truleive",
+    "address":"1614 W University Ave",
+    "paperNumber":10,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3437239,29.6522375 ]
+    },
+    "properties": {
+    "id":132,
+    "location":"WAWA",
+    "address":"1614 W University Ave",
+    "paperNumber":5,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3433511,29.6532317 ]
+    },
+    "properties": {
+    "id":134,
+    "location":"Pascals Coffee",
+    "address":"112 NW 16th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34291975,29.64432834 ]
+    },
+    "properties": {
+    "id":135,
+    "location":"University of Florida Police Department",
+    "address":"1555 Museum Rd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3430909,29.6529931 ]
+    },
+    "properties": {
+    "id":136,
+    "location":"UF Office of Academic Support",
+    "address":"105 NW 16th St",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34255369,29.67442665 ]
+    },
+    "properties": {
+    "id":137,
+    "location":"UF Health Homecare",
+    "address":"1610 NW 23rd Ave",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34164423,29.67005079 ]
+    },
+    "properties": {
+    "id":138,
+    "location":"Gainesville High School",
+    "address":"1900 NW 13th St",
+    "paperNumber":15,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34114642,29.61447271 ]
+    },
+    "properties": {
+    "id":139,
+    "location":"Texaco",
+    "address":"4114 SW 13th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34087065,29.68744756 ]
+    },
+    "properties": {
+    "id":140,
+    "location":"Publix",
+    "address":"NW 13th St & NW 39th Ave",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3406199,29.6443927 ]
+    },
+    "properties": {
+    "id":141,
+    "location":"Beaty Towers",
+    "address":"1365 Museum Rd",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32579429,29.66412301 ]
+    },
+    "properties": {
+    "id":143,
+    "location":"Gainesville Shopping Center Publix",
+    "address":"1302 N Main St",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3400114,29.6462252 ]
+    },
+    "properties": {
+    "id":144,
+    "location":"Reid Hall",
+    "address":"1316 Museum/13th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33984,29.64945063 ]
+    },
+    "properties": {
+    "id":145,
+    "location":"Tigert Hall",
+    "address":"300 SW 13th St",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3397485,29.6351146 ]
+    },
+    "properties": {
+    "id":146,
+    "location":"Xtra Liquor",
+    "address":"1712 SW 13th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3396117,29.6442234 ]
+    },
+    "properties": {
+    "id":147,
+    "location":"UF Housing Office",
+    "address":"1304 Diamond Rd",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33941165,29.66695462 ]
+    },
+    "properties": {
+    "id":148,
+    "location":"Marathon",
+    "address":"NW 13th St & NW 16th Ave",
+    "paperNumber":100,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33861688,29.62772818 ]
+    },
+    "properties": {
+    "id":149,
+    "location":"Travelodge",
+    "address":"2649 SW 13th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3390029,29.6489849 ]
+    },
+    "properties": {
+    "id":150,
+    "location":"Social 28",
+    "address":"311 SW 13th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.338905,29.6342567 ]
+    },
+    "properties": {
+    "id":151,
+    "location":"University Inn Gainesville",
+    "address":"1901 SW 13th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3388929,29.6333174 ]
+    },
+    "properties": {
+    "id":152,
+    "location":"UF Endoscopy",
+    "address":"2001 SW 13th St",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3388718,29.6324274 ]
+    },
+    "properties": {
+    "id":153,
+    "location":"Texaco Station on 13th",
+    "address":"2109 SW 13th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3388285,29.6294105 ]
+    },
+    "properties": {
+    "id":154,
+    "location":"Quality Inn on 13th",
+    "address":"2435 SW 13th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33872855,29.68077874 ]
+    },
+    "properties": {
+    "id":155,
+    "location":"Exxon",
+    "address":"3001 NW 13th St",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3387149,29.653669 ]
+    },
+    "properties": {
+    "id":156,
+    "location":"Publix on University",
+    "address":"203 NW 13th St & University Ave",
+    "paperNumber":75,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33859752,29.66414495 ]
+    },
+    "properties": {
+    "id":157,
+    "location":"Life South",
+    "address":"1221 NW 13th St",
+    "paperNumber":10,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33859092,29.67615738 ]
+    },
+    "properties": {
+    "id":158,
+    "location":"2nd Charles (old Books-a-Million)",
+    "address":"2601 NW 13th St",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33854581,29.68846645 ]
+    },
+    "properties": {
+    "id":159,
+    "location":"Shell Station on 13th",
+    "address":"3831 NW 13th St",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3384796,29.61904063 ]
+    },
+    "properties": {
+    "id":160,
+    "location":"The Landings",
+    "address":"3801 SW 13th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33847702,29.69268716 ]
+    },
+    "properties": {
+    "id":161,
+    "location":"Sunoco Station on 13th",
+    "address":"4207 NW 13th St",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33844018,29.667282 ]
+    },
+    "properties": {
+    "id":162,
+    "location":"Walgreens",
+    "address":"1615 NW 13th St",
+    "paperNumber":15,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33824405,29.63596553 ]
+    },
+    "properties": {
+    "id":163,
+    "location":"Sai Kwik Stop",
+    "address":"1201 SW 16th Ave",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3378726,29.6503579 ]
+    },
+    "properties": {
+    "id":164,
+    "location":"College Manor Apts",
+    "address":"1216 SW 2nd Ave",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3377281,29.6259499 ]
+    },
+    "properties": {
+    "id":165,
+    "location":"Boardwalk Apts",
+    "address":"2701 SW 13th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33747594,29.67499056 ]
+    },
+    "properties": {
+    "id":167,
+    "location":"Biomat Plasma Center",
+    "address":"2315 NW 13th St",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33578409,29.65242861 ]
+    },
+    "properties": {
+    "id":168,
+    "location":"Chevron Station on University",
+    "address":"1024 W University",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33477692,29.63992933 ]
+    },
+    "properties": {
+    "id":169,
+    "location":"PK Yonge",
+    "address":"1200 SW 6th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33521213,29.65197581 ]
+    },
+    "properties": {
+    "id":170,
+    "location":"Subway on University",
+    "address":"1005 W University",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33487258,29.65048465 ]
+    },
+    "properties": {
+    "id":171,
+    "location":"Infinity Hall",
+    "address":"978 SW 2nd Ave",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3336472,29.6459621 ]
+    },
+    "properties": {
+    "id":172,
+    "location":"Windsor Hall",
+    "address":"629 SW 9th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3326373,29.6512064 ]
+    },
+    "properties": {
+    "id":173,
+    "location":"Care Spot",
+    "address":"720 SW 2nd Ave",
+    "paperNumber":75,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3323987,29.69074957 ]
+    },
+    "properties": {
+    "id":174,
+    "location":"LaPasadita",
+    "address":"4126 NW 6th St",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3322537,29.65250562 ]
+    },
+    "properties": {
+    "id":175,
+    "location":"The Salon @ 716",
+    "address":"716 W University",
+    "paperNumber":5,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33138073,29.65369597 ]
+    },
+    "properties": {
+    "id":176,
+    "location":"KEDPLASMA",
+    "address":"150 NW 6th St",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33131735,29.6553863 ]
+    },
+    "properties": {
+    "id":177,
+    "location":"Sweet Berries",
+    "address":"619 NW 5th Ave",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33055849,29.65960356 ]
+    },
+    "properties": {
+    "id":178,
+    "location":"Sunoco",
+    "address":"528 NW 8th Ave",
+    "paperNumber":150,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33112373,29.67540154 ]
+    },
+    "properties": {
+    "id":179,
+    "location":"Outreach Thrift Store",
+    "address":"2430 NW 6th St",
+    "paperNumber":15,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3297844,29.6738049 ]
+    },
+    "properties": {
+    "id":180,
+    "location":"Ward's Supermarket",
+    "address":"515 NW 23rd Ave",
+    "paperNumber":600,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33062296,29.65918301 ]
+    },
+    "properties": {
+    "id":181,
+    "location":"Gainesville Police Dept",
+    "address":"413 NW 8th Ave",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32950055,29.63691603 ]
+    },
+    "properties": {
+    "id":182,
+    "location":"BP Station",
+    "address":"334 SW 16th Ave",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3289754,29.6355421 ]
+    },
+    "properties": {
+    "id":183,
+    "location":"Arbor Park Apts",
+    "address":"309 SW 16th Ave",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.328851,29.652223 ]
+    },
+    "properties": {
+    "id":184,
+    "location":"Seagle Building",
+    "address":"408 W University",
+    "paperNumber":10,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32664664,29.65225863 ]
+    },
+    "properties": {
+    "id":185,
+    "location":"Flaco's Cuban Bakery & Coffee",
+    "address":"200 W University",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32627126,29.6524836 ]
+    },
+    "properties": {
+    "id":186,
+    "location":"State Attorney",
+    "address":"120 W University",
+    "paperNumber":5,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32601505,29.6625944 ]
+    },
+    "properties": {
+    "id":187,
+    "location":"CareerSource North Central Florida",
+    "address":"1112 N Main Street",
+    "paperNumber":50,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3258855,29.67357769 ]
+    },
+    "properties": {
+    "id":188,
+    "location":"Abuela's",
+    "address":"125 NW 23rd Ave #9",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32536992,29.65379088 ]
+    },
+    "properties": {
+    "id":189,
+    "location":"Paradigm Properties/Collier Co",
+    "address":"220 N Main St",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32482956,29.65209897 ]
+    },
+    "properties": {
+    "id":190,
+    "location":"Pop-a-Top",
+    "address":"2 E University Ave",
+    "paperNumber":10,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32462402,29.64810549 ]
+    },
+    "properties": {
+    "id":191,
+    "location":"St Francis House",
+    "address":"413 S Main St",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3231769,29.67178846 ]
+    },
+    "properties": {
+    "id":192,
+    "location":"Clock Restaurant (wire rack inside)",
+    "address":"2010 N Main St",
+    "paperNumber":160,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32313938,29.65295193 ]
+    },
+    "properties": {
+    "id":193,
+    "location":"City Hall",
+    "address":"200 E University",
+    "paperNumber":35,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32195623,29.65738571 ]
+    },
+    "properties": {
+    "id":194,
+    "location":"Thomas Center",
+    "address":"302 NE 6th Ave",
+    "paperNumber":55,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32153496,29.65144603 ]
+    },
+    "properties": {
+    "id":195,
+    "location":"Library Drop Box",
+    "address":"401 E University Ave S side of bldg",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32109098,29.67697206 ]
+    },
+    "properties": {
+    "id":196,
+    "location":"Chevy Dealer",
+    "address":"2600 N MAIN ST",
+    "paperNumber":20,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.30788713,29.66124891 ]
+    },
+    "properties": {
+    "id":197,
+    "location":"Martin Luther King Center",
+    "address":"1028 NE 14th St",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.30188578,29.674025 ]
+    },
+    "properties": {
+    "id":198,
+    "location":"Next to Satchel's on cement",
+    "address":"NE 23rd Ave",
+    "paperNumber":15,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.2954675,29.64932876 ]
+    },
+    "properties": {
+    "id":199,
+    "location":"Alachua County Health Dept",
+    "address":"218 SE 24th St",
+    "paperNumber":15,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.27755141,29.69691882 ]
+    },
+    "properties": {
+    "id":201,
+    "location":"University Air Center",
+    "address":"4701 NE 40 Terr",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.31686978,29.63525771 ]
+    },
+    "properties": {
+    "id":202,
+    "location":"Waldo Chevron",
+    "address":"1516 SE 4th St",
+    "paperNumber":40,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.35671451,29.62573164 ]
+    },
+    "properties": {
+    "id":203,
+    "location":"University Club Apts",
+    "address":"2900 SW 23rd Terrace",
+    "paperNumber":30,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33404257,29.65180574 ]
+    },
+    "properties": {
+    "id":204,
+    "location":"UF Human Resources",
+    "address":"903 W University Ave",
+    "paperNumber":25,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3593226,29.6353684 ]
+    },
+    "properties": {
+    "id":205,
+    "location":"IFAS Administration Office ",
+    "address":"30 SW 23 Dr",
+    "paperNumber":null,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3397713,29.6325504 ]
+    },
+    "properties": {
+    "id":206,
+    "location":"Dominos",
+    "address":"2106 SW 13th St",
+    "paperNumber":null,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3396556,29.6494138 ]
+    },
+    "properties": {
+    "id":207,
+    "location":"Tigret Hall",
+    "address":"300 SW 13th St",
+    "paperNumber":null,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3328381,29.6500607 ]
+    },
+    "properties": {
+    "id":208,
+    "location":"UF Innovate",
+    "address":"747 SW 2nd Ave Suite 108",
+    "paperNumber":null,
+    "type":"bundleDrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4965686,29.65455248 ]
+    },
+    "properties": {
+    "id":212,
+    "location":"Newberry Circle K",
+    "address":"14300 W Newberry Rd",
+    "paperNumber":400,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.43946575,29.68785572 ]
+    },
+    "properties": {
+    "id":213,
+    "location":"Meelypops Shop Plaza",
+    "address":"3700 NW 91st St #E100",
+    "paperNumber":35,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.423232,29.625755 ]
+    },
+    "properties": {
+    "id":214,
+    "location":"Tower Rd Branch Public Library",
+    "address":"3020 SW 75th St",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.36502547,29.61968065 ]
+    },
+    "properties": {
+    "id":215,
+    "location":"Gainesville Place Apts Bus Stop",
+    "address":"2800 SW 35th Pl",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.40879236,29.65804918 ]
+    },
+    "properties": {
+    "id":216,
+    "location":"Hobby Lobby Bus Stop",
+    "address":"62nd Blvd by Hobby Lobby",
+    "paperNumber":80,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.406943,29.658099 ]
+    },
+    "properties": {
+    "id":217,
+    "location":"McAllister's Deli",
+    "address":"618 NW 60th St",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.39822937,29.68829351 ]
+    },
+    "properties": {
+    "id":218,
+    "location":"David's BBQ",
+    "address":"5121 NW 39th Ave",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38824109,29.65491294 ]
+    },
+    "properties": {
+    "id":219,
+    "location":"SIMED Health Bus Stop",
+    "address":"4343 Newberry Rd",
+    "paperNumber":15,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.388759,29.636379 ]
+    },
+    "properties": {
+    "id":220,
+    "location":"Tailgate Beverages",
+    "address":"4340 SW 20th Ave",
+    "paperNumber":40,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38865469,29.67373867 ]
+    },
+    "properties": {
+    "id":221,
+    "location":"West Park Circle K",
+    "address":"4221 NW 16th Blvd",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38816089,29.67609959 ]
+    },
+    "properties": {
+    "id":222,
+    "location":"Thornebrooke Village Canopy",
+    "address":"2441 NW 43rd St",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3878966,29.68220162 ]
+    },
+    "properties": {
+    "id":224,
+    "location":"Millhopper Branch Public Library",
+    "address":"3145 NW 43rd St",
+    "paperNumber":100,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3736087,29.6382336 ]
+    },
+    "properties": {
+    "id":226,
+    "location":"UF Ortho",
+    "address":"3450 Hull Rd",
+    "paperNumber":200,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.37337727,29.61083653 ]
+    },
+    "properties": {
+    "id":227,
+    "location":"Main Post Office",
+    "address":"4600 SW 34th St",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.37286731,29.63018549 ]
+    },
+    "properties": {
+    "id":228,
+    "location":"Kelly Kwik Stop",
+    "address":"2416 SW 34th St",
+    "paperNumber":15,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.372065,29.652402 ]
+    },
+    "properties": {
+    "id":229,
+    "location":"Chevron Station on W University ",
+    "address":"3328 W University Ave",
+    "paperNumber":15,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.371365,29.661524 ]
+    },
+    "properties": {
+    "id":230,
+    "location":"West Side Park/Center",
+    "address":"1001 NW 34th St",
+    "paperNumber":30,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3701356,29.6426414 ]
+    },
+    "properties": {
+    "id":231,
+    "location":"UF Facilities Services",
+    "address":"3274 Radio Rd #701",
+    "paperNumber":20,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3661653,29.6422305 ]
+    },
+    "properties": {
+    "id":232,
+    "location":"Lakeside Bus Stop",
+    "address":"2955 Radio Rd",
+    "paperNumber":null,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3661274,29.643339 ]
+    },
+    "properties": {
+    "id":233,
+    "location":"Elmore Hall",
+    "address":"971 Elmore Dr",
+    "paperNumber":15,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3660637,29.641861 ]
+    },
+    "properties": {
+    "id":234,
+    "location":"Lakeside Complex",
+    "address":"2955 Radio Rd",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3619425,29.6319608 ]
+    },
+    "properties": {
+    "id":235,
+    "location":"Archer Road Bus Stop @Univ Commons",
+    "address":"2601 Archer Rd",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3610915,29.6379743 ]
+    },
+    "properties": {
+    "id":236,
+    "location":"Fifield Hall",
+    "address":"2550 Hull Rd",
+    "paperNumber":100,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3606889,29.6464447 ]
+    },
+    "properties": {
+    "id":237,
+    "location":"Corry Commons",
+    "address":"620 Village Dr",
+    "paperNumber":15,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3582293,29.6336712 ]
+    },
+    "properties": {
+    "id":238,
+    "location":"Archer Road Bus Stop",
+    "address":"2337 Archer Rd",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.35697776,29.6382969 ]
+    },
+    "properties": {
+    "id":240,
+    "location":"Mowry bus stop",
+    "address":"Mowry Rd",
+    "paperNumber":20,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3526496,29.6445308 ]
+    },
+    "properties": {
+    "id":242,
+    "location":"Hume Hall",
+    "address":"19 Museum Rd",
+    "paperNumber":15,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3516615,29.6313701 ]
+    },
+    "properties": {
+    "id":243,
+    "location":"Animal Sciences Bldg",
+    "address":"2250 Shealy Drive",
+    "paperNumber":15,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3502078,29.6405649 ]
+    },
+    "properties": {
+    "id":244,
+    "location":"Transportation and Parking Services",
+    "address":"1273 Gale Lemerand",
+    "paperNumber":15,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3497646,29.6443003 ]
+    },
+    "properties": {
+    "id":245,
+    "location":"Physics Bldg",
+    "address":"2001 Museum Rd/Gale Lemerand",
+    "paperNumber":15,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.349036,29.6478587 ]
+    },
+    "properties": {
+    "id":246,
+    "location":"Rhines Hall",
+    "address":"1698 Gale Lemerand",
+    "paperNumber":20,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3477563,29.6420843 ]
+    },
+    "properties": {
+    "id":248,
+    "location":"Black Hall",
+    "address":"1128 Center Dr",
+    "paperNumber":15,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.343349,29.6388995 ]
+    },
+    "properties": {
+    "id":250,
+    "location":"VA Hospital Archer Rd Entrance",
+    "address":"1301 SW 16th St",
+    "paperNumber":150,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3456293,29.6455632 ]
+    },
+    "properties": {
+    "id":251,
+    "location":"Newins Zeigler Hall",
+    "address":"1745 McCarty Dr",
+    "paperNumber":20,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3454291,29.6447409 ]
+    },
+    "properties": {
+    "id":252,
+    "location":"Frazier Rogers Hall",
+    "address":"1741 Museum Rd",
+    "paperNumber":20,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3453124,29.6521889 ]
+    },
+    "properties": {
+    "id":253,
+    "location":"Ballz Athletic Cuts",
+    "address":"1714 W University Ave",
+    "paperNumber":75,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3448038,29.6521953 ]
+    },
+    "properties": {
+    "id":254,
+    "location":"Gator Plaza",
+    "address":"1700 W University Ave",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.344726,29.6460889 ]
+    },
+    "properties": {
+    "id":255,
+    "location":"McCarty Vending",
+    "address":"1604 McCarty Dr",
+    "paperNumber":30,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3441799,29.6466833 ]
+    },
+    "properties": {
+    "id":256,
+    "location":"McCarty Hall Back",
+    "address":"1692 McCarty Dr",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34416815,29.64842489 ]
+    },
+    "properties": {
+    "id":257,
+    "location":"Computer Science Library",
+    "address":"432 Newell Dr",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3440464,29.6465143 ]
+    },
+    "properties": {
+    "id":258,
+    "location":"McCarty Hall Front",
+    "address":"1604 McCarty Dr",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3439914,29.6482177 ]
+    },
+    "properties": {
+    "id":259,
+    "location":"Marston Science Library",
+    "address":"444 Newell Dr",
+    "paperNumber":null,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3421005,29.6441307 ]
+    },
+    "properties": {
+    "id":261,
+    "location":"Jennings Hall",
+    "address":"1515 Museum Rd",
+    "paperNumber":20,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3412737,29.6522125 ]
+    },
+    "properties": {
+    "id":263,
+    "location":"Dunkin Donuts",
+    "address":"1412 W University Ave",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3405404,29.6423585 ]
+    },
+    "properties": {
+    "id":264,
+    "location":"Diamond Village",
+    "address":"1402 Diamond Rd",
+    "paperNumber":15,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3403175,29.6264952 ]
+    },
+    "properties": {
+    "id":265,
+    "location":"Gainesville Sun",
+    "address":"2700 SW 13th St",
+    "paperNumber":null,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33962424,29.67349594 ]
+    },
+    "properties": {
+    "id":266,
+    "location":"Taco Bell",
+    "address":"2224 NW 13th St",
+    "paperNumber":100,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3398498,29.6241319 ]
+    },
+    "properties": {
+    "id":267,
+    "location":"Stayable Select",
+    "address":"2900 SW 13th St",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33948466,29.67178817 ]
+    },
+    "properties": {
+    "id":268,
+    "location":"Coffee Culture",
+    "address":"2020 NW 13th St",
+    "paperNumber":20,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33930794,29.67279728 ]
+    },
+    "properties": {
+    "id":269,
+    "location":"Verde Plaza Bus Stop 13th St",
+    "address":"1459 NW 23rd Ave",
+    "paperNumber":100,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3392024,29.6233144 ]
+    },
+    "properties": {
+    "id":270,
+    "location":"Tanglewood Apts",
+    "address":"2901 SW 13th St",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33896327,29.67747195 ]
+    },
+    "properties": {
+    "id":271,
+    "location":"Ross/Burlington bus stop",
+    "address":"2659 NW 13th St",
+    "paperNumber":75,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33870203,29.63000024 ]
+    },
+    "properties": {
+    "id":272,
+    "location":"High Tides",
+    "address":"2413 SW 13th ST",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33782014,29.65253148 ]
+    },
+    "properties": {
+    "id":273,
+    "location":"Bagels & Noodles",
+    "address":"1222 W University",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33691945,29.65263423 ]
+    },
+    "properties": {
+    "id":275,
+    "location":"Gator Beverages",
+    "address":"1126 W University",
+    "paperNumber":20,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3321445,29.6484433 ]
+    },
+    "properties": {
+    "id":276,
+    "location":"Wises Pharmacy",
+    "address":"708 SW 4th Ave",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33102606,29.6559843 ]
+    },
+    "properties": {
+    "id":277,
+    "location":"Fades & Fros",
+    "address":"600 Northwest 5th Ave",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3301724,29.6524715 ]
+    },
+    "properties": {
+    "id":278,
+    "location":"Santa Fe College Blount Center",
+    "address":"530 W University",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32788084,29.66782488 ]
+    },
+    "properties": {
+    "id":279,
+    "location":"Sidney Lanier",
+    "address":"312 NW 16th Ave",
+    "paperNumber":15,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32485026,29.65253447 ]
+    },
+    "properties": {
+    "id":281,
+    "location":"Court Service",
+    "address":"35 N Main St",
+    "paperNumber":30,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3246162,29.66379112 ]
+    },
+    "properties": {
+    "id":282,
+    "location":"Gville Shopping Ctr Bus Stop",
+    "address":"1302 N Main St",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32414213,29.65009914 ]
+    },
+    "properties": {
+    "id":283,
+    "location":"North side of Downtown Hyatt",
+    "address":"212 SE 1st St",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32343362,29.65150334 ]
+    },
+    "properties": {
+    "id":284,
+    "location":"Bo Diddley Plaza",
+    "address":"185 E University Ave",
+    "paperNumber":100,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3218941,29.64824304 ]
+    },
+    "properties": {
+    "id":285,
+    "location":"GRU",
+    "address":"301 SE 4th Ave",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.32143703,29.65074516 ]
+    },
+    "properties": {
+    "id":286,
+    "location":"US District Court Clerk",
+    "address":"401 SE 1st Ave",
+    "paperNumber":100,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.31894589,29.65293035 ]
+    },
+    "properties": {
+    "id":287,
+    "location":"Kirby Smith Center",
+    "address":"620 E University",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.31269828,29.65210072 ]
+    },
+    "properties": {
+    "id":288,
+    "location":"University McDonalds",
+    "address":"1030 E University",
+    "paperNumber":30,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.30551869,29.65074167 ]
+    },
+    "properties": {
+    "id":289,
+    "location":"Fast Eddies",
+    "address":"1509 SE Hawthorne Rd",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.30193849,29.67407549 ]
+    },
+    "properties": {
+    "id":290,
+    "location":"Satchel's",
+    "address":"1800 NE 23rd Ave",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.30096348,29.66668324 ]
+    },
+    "properties": {
+    "id":291,
+    "location":"Tacachale Admin Bloc 149",
+    "address":"1621 NE Waldo",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.29914295,29.67264548 ]
+    },
+    "properties": {
+    "id":292,
+    "location":"UF East Campus",
+    "address":"2046 NE WALDO RD",
+    "paperNumber":300,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.279861,29.511819 ]
+    },
+    "properties": {
+    "id":293,
+    "location":"Pearl Country Store/Micanopy",
+    "address":"106 US 441/Micanopy",
+    "paperNumber":50,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.26421347,29.69760812 ]
+    },
+    "properties": {
+    "id":294,
+    "location":"Gainesville Regional Airport",
+    "address":"3880 NE 39th Ave",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3018474,29.66690533 ]
+    },
+    "properties": {
+    "id":296,
+    "location":"Texaco Station",
+    "address":"1602 NE Waldo Rd",
+    "paperNumber":25,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.35263795,29.64871475 ]
+    },
+    "properties": {
+    "id":297,
+    "location":"Infirmary rack only",
+    "address":"2140 Stadium Rd",
+    "paperNumber":200,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.345993,29.6366303 ]
+    },
+    "properties": {
+    "id":298,
+    "location":"VA Canteen",
+    "address":"1601 SW Archer Rd",
+    "paperNumber":100,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3569931,29.6382814 ]
+    },
+    "properties": {
+    "id":299,
+    "location":"IFAS Forest Resources & Conservation & Wildlife Ecology & Conservation",
+    "address":"1501 Date Palm Dr",
+    "paperNumber":null,
+    "type":"orangeBox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3389335,29.6300895 ]
+    },
+    "properties": {
+    "id":300,
+    "location":"Gyro plus",
+    "address":"2409 SW 13th St",
+    "paperNumber":null,
+    "type":"orangeBox"
+    }
+  }
+]
+}

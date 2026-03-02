@@ -1,0 +1,205 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  font-family: 'Lato'; /* should be Lato */
+}
+
+#map {
+  position: absolute;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+}
+
+/* legend stuff */
+#legend {
+  position: absolute;
+  z-index: 2;
+  background-color: white;
+  padding: 0.6rem;
+  margin: 1rem;
+  width: 10rem;
+  font-size: 0.8rem;
+  line-height: 1.8rem;
+  color: #1c1c1c;
+  box-shadow: 0 4px 6px 0 rgba(0,0,0,0.1);
+  border-radius: 8px;
+
+}
+
+.legend-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-left: 0.4rem;
+}
+
+form, select, textarea, button, fieldset, h2 {
+  all: unset;
+  appearance: none;
+  outline: none; 
+}
+
+/* hide default checkboxes */
+#checkboxes input {
+  position: relative;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+#bundleCheckmark, #modularCheckmark, #boxCheckmark {
+  display: inline-block;
+  margin-right: 0.4rem;
+  vertical-align: -0.5rem;
+  height: 1.6rem;
+  width: 1.6rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  transition: background-image 0.2s ease-in-out;
+}
+
+#bundleCheckmark {
+  background-image: url("icons/dropUnchecked.png");
+}
+
+#modularCheckmark {
+  background-image: url("icons/modularUnchecked.png");
+}
+
+#boxCheckmark {
+  background-image: url("icons/boxUnchecked.png")
+}
+
+#bundle:checked ~ label #bundleCheckmark {
+  background-image: url("icons/dropChecked.png");
+}
+
+#modular:checked ~ label #modularCheckmark {
+  background-image: url("icons/modularChecked.png");
+}
+
+#box:checked ~ label #boxCheckmark {
+  background-image: url("icons/boxChecked.png");
+}
+
+/* popups and modal */
+.maplibregl-popup {
+  max-width: 700px;
+}
+
+.maplibregl-popup-content {
+  padding: 0.2rem 0.4rem !important;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+#modal {
+  position: absolute;
+  bottom: -300px;
+  display: inline-block;
+  box-sizing: border-box;
+  margin: auto;
+  z-index: 1;
+  background-color: white;
+  width: 100%;
+  height: auto;
+  padding: 1rem;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  transition: bottom 0.5s;
+}
+
+.close {
+  color: black;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* modal styling */
+.modal-title {
+  font-size: 1.6rem;
+  font-weight: 600;
+  width: 100%;
+  margin-bottom: 0.6rem;
+}
+
+.modular-icon, .bundle-icon, .box-icon, .address-icon {
+  display: inline-block;
+  height: 1rem;
+  width: 1rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  vertical-align: -0.2rem;
+  margin-right: 0.2rem;
+  margin-left: -0.2rem;
+}
+
+.address-icon {
+  margin-right: 0.2rem;
+}
+
+.modular-icon {
+  background-image: url("icons/modularDark.png");
+}
+
+.bundle-icon {
+  background-image: url("icons/dropDark.png");
+}
+
+.box-icon {
+  background-image: url("icons/boxDark.png");
+}
+
+.address-icon {
+  background-image: url("icons/selectedDark.png");
+}
+.modular-tag, .bundle-tag, .box-tag, .address-tag {
+  display: inline-block;
+  width: auto;
+  padding: 0.2rem 0.4rem;
+  font-weight: 600;
+  font-size: 0.8rem;
+  border-radius: 5px;
+}
+
+.modular-tag {
+  color: #8240d4;
+  background-color: #e0caff;
+  margin-right: 0.4rem;
+}
+
+.bundle-tag {
+  color: #375fce;
+  background-color: #cadaff;
+  margin-right: 0.4rem;
+}
+
+.box-tag {
+  color: #dc5309;
+  background-color: #ffe0cf;
+  margin-right: 0.4rem;
+}
+
+.address-tag {
+  color: #006631;
+  background-color: #bfddcc;
+  margin-top: 0.4rem;
+}
+
+#modal p {
+  font-size: 0.8rem;
+}
