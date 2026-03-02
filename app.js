@@ -4,7 +4,7 @@ const map = new maplibregl.Map({
     container: 'map',
     style: 'alligatorMapStyle.json',
     center: [-82.3413578803949, 29.665500465815924],
-    zoom: 11,
+    zoom: 14,
 });
 
 map.on('load', async () => {
