@@ -38,8 +38,8 @@ map.on('load', async () => {
                     'interpolate',
                     ['linear'],
                     ['zoom'],
-                    10, 0.2,
-                    20, 0.8
+                    10, 0.4,
+                    20, 1
                 ],
                 'icon-overlap': 'always'
             },
