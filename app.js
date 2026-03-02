@@ -3,8 +3,8 @@ import "https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js";
 const map = new maplibregl.Map({
     container: 'map',
     style: 'alligatorMapStyle.json',
-    center: [-82.3413578803949, 29.665500465815924],
-    zoom: 14,
+    center: [-82.35371774106545, 29.646731779818918],
+    zoom: 12,
 });
 
 map.on('load', async () => {
