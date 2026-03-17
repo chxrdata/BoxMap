@@ -153,7 +153,6 @@ map.on('load', async () => {
 
     // on feature click behavior
     map.on('click', 'allStops', (e) => {
-         e.stopPropagation();
 
         if (map.getZoom() < 16) {
             map.flyTo({
@@ -277,12 +276,12 @@ map.on('load', async () => {
     }
 
     // close popup when clicking on something other than feature
-    map.on('click', (e) => {
+    /* map.on('click', (e) => {
         const features = map.queryRenderedFeatures(e.point, { layers: ['allStops'] });
         if (features.length === 0) {
             closePopup()
         }
-    });
+    }); */
 
     let windowStatus = ""
     function setWindowStatus() {
