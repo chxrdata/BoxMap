@@ -117,7 +117,7 @@ map.on('load', async () => {
         //behavior based on checked or unchecked
         if (checkedState) {
             if (!StopsToFilterArr.includes(checkedType)) {
-                StopsToFilterArr.push(checkedType)
+                StopsToFilterArr.push(checkedType);
             }
         } else {
             const index = StopsToFilterArr.indexOf(checkedType);
@@ -142,7 +142,7 @@ map.on('load', async () => {
             typeFilter
         ]);
         map.setFilter('selectedStop', ['==', ['id'], selectedFeatureId ?? '']);
-    })
+    });
 
     let selectedFeatureId = null;
     let currentFeatureCoordinates = undefined;
@@ -178,22 +178,22 @@ map.on('load', async () => {
         const address = e.features[0].properties.address;
 
         //set up innerHTML
-        const titleDiv = '<div class="modal-title">' + name + '</div>'
-        const addressTag = '<div class="address-tag"><span class="address-icon"></span>' + address + '</div>'
+        const titleDiv = '<div class="modal-title">' + name + '</div>';
+        const addressTag = '<div class="address-tag"><span class="address-icon"></span>' + address + '</div>';
         let typeTag = '';
         let instructions = '';
         switch (type) {
             case 'modular':
                 typeTag = '<div class="modular-tag"><span class="modular-icon"></span>Multi-paper rack</div>';
-                instructions = "<p>You can pick up a paper at the black multi-paper rack.</p>"
+                instructions = "<p>You can pick up a paper at the black multi-paper rack.</p>";
                 break;
             case 'bundleDrop':
                 typeTag = '<div class="bundle-tag"><span class="bundle-icon"></span>Inside business</div>';
-                instructions = "<p>You may be able to pick up a paper inside the business.</p>"
+                instructions = "<p>You may be able to pick up a paper inside the business.</p>";
                 break;
             case 'orangeBox':
                 typeTag = '<div class="box-tag"><span class="box-icon"></span>Alligator Box</div>';
-                instructions = "<p>You can pick up a paper at the orange Alligator box.</p>"
+                instructions = "<p>You can pick up a paper at the orange Alligator box.</p>";
                 break;
         }
         const issueInstructions = '<p class="issuep">Isse with this stop? Please let us know here.</p>';
@@ -210,29 +210,29 @@ map.on('load', async () => {
                 ['!=', ['get', 'id'], selectedFeatureId],
                 ['any', ...StopsToFilterArr.map(type => //This is type filter from above
                     ['==', ['get', 'type'], type])]
-            ])
+            ]);
             map.setFilter('allStopsSmall', [
                 'all',
                 ['!=', ['get', 'id'], selectedFeatureId],
                 ['any', ...StopsToFilterArr.map(type => //This is type filter from above
                     ['==', ['get', 'type'], type])]
-            ])
+            ]);
 
             modalcontent.innerHTML = HTMLContent;
-            modal.style.bottom = "0px"
+            modal.style.bottom = "0px";
 
             //close modal and remove selected icon when clicking the X
             span.onclick = function () {
                 modal.style.bottom = "-300px";
-                selectedFeatureId = null
+                selectedFeatureId = null;
                 map.setFilter('selectedStop', ['==', ['get', 'id'], selectedFeatureId]);
                 map.setFilter('allStops', [
                     'all',
                     ['!=', ['get', 'id'], selectedFeatureId],
                     ['any', ...StopsToFilterArr.map(type => //This is type filter from above
                         ['==', ['get', 'type'], type])]
-                ])
-            }
+                ]);
+            };
         } else { //desktop behavior
             const featureCoordinates = e.features[0].geometry.coordinates.toString();
             if (currentFeatureCoordinates !== featureCoordinates) {
@@ -254,7 +254,7 @@ map.on('load', async () => {
                         .setLngLat(coordinates)
                         .setHTML(HTMLContent)
                         .addTo(map);
-                }, 300)
+                }, 300);
             }
         }
     });
@@ -262,36 +262,36 @@ map.on('load', async () => {
     function closePopup() {
         popup.remove();
         modal.style.bottom = "-300px";
-        selectedFeatureId = null
+        selectedFeatureId = null;
         map.setFilter('selectedStop', ['==', ['get', 'id'], selectedFeatureId]);
         map.setFilter('allStops', [
             'all',
             ['!=', ['get', 'id'], selectedFeatureId],
             ['any', ...StopsToFilterArr.map(type => //This is type filter from above
                 ['==', ['get', 'type'], type])]
-        ])
+        ]);
         map.setFilter('allStopsSmall', [
             'all',
             ['!=', ['get', 'id'], selectedFeatureId],
             ['any', ...StopsToFilterArr.map(type => //This is type filter from above
                 ['==', ['get', 'type'], type])]
-        ])
+        ]);
     }
 
     // close popup when clicking on something other than feature
     map.on('click', (e) => {
         const features = map.queryRenderedFeatures(e.point, { layers: ['allStops'] });
         if (features.length === 0) {
-            closePopup()
+            closePopup();
         }
     });
 
-    let windowStatus = ""
+    let windowStatus = "";
     function setWindowStatus() {
         if (window.innerWidth > 768) {
-            windowStatus = "desktop"
+            windowStatus = "desktop";
         } else {
-            windowStatus = "mobile"
+            windowStatus = "mobile";
         }
     }
     setWindowStatus();
@@ -299,15 +299,15 @@ map.on('load', async () => {
     window.addEventListener('resize', () => {
         if (windowStatus == "desktop") {
             if (window.innerWidth < 768) {
-                closePopup()
+                closePopup();
             }
         }
         if (windowStatus == "mobile") {
             if (window.innerWidth > 768) {
-                closePopup()
+                closePopup();
             }
         }
         setWindowStatus();
-    })
+    });
 
 });
