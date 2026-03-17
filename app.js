@@ -248,12 +248,10 @@ map.on('load', async () => {
 
                 // Populate the popup and set its coordinates
                 // based on the feature found.
-                setTimeout(() => {
-                    popup
+                popup
                     .setLngLat(coordinates)
                     .setHTML(HTMLContent)
                     .addTo(map);
-                }, 300)
             }
         }
     });
