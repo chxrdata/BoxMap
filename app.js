@@ -280,8 +280,8 @@ map.on('load', async () => {
         const features = map.queryRenderedFeatures(e.point, { layers: ['allStops'] });
         if (features.length === 0) {
             closePopup()
-        }
-    }); */
+        } */
+    }); 
 
     let windowStatus = ""
     function setWindowStatus() {
