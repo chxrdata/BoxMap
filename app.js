@@ -153,6 +153,7 @@ map.on('load', async () => {
 
     // on feature click behavior
     map.on('click', 'allStops', (e) => {
+         e.stopPropagation();
 
         if (map.getZoom() < 16) {
             map.flyTo({
