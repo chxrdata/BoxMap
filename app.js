@@ -151,6 +151,11 @@ map.on('load', async () => {
         closeOnClick: true
     });
 
+    // declare modal variables
+    const modal = document.getElementById("modal");
+    const modalcontent = document.getElementById("modalcontent");
+    const span = document.getElementsByClassName("close")[0];
+
     // on feature click behavior
     map.on('click', 'allStops', (e) => {
 
@@ -212,10 +217,6 @@ map.on('load', async () => {
                 ['any', ...StopsToFilterArr.map(type => //This is type filter from above
                     ['==', ['get', 'type'], type])]
             ])
-            const modal = document.getElementById("modal");
-            const modalcontent = document.getElementById("modalcontent");
-
-            const span = document.getElementsByClassName("close")[0];
 
             modalcontent.innerHTML = HTMLContent;
             modal.style.bottom = "0px"
@@ -250,9 +251,9 @@ map.on('load', async () => {
                 // based on the feature found.
                 setTimeout(() => {
                     popup
-                    .setLngLat(coordinates)
-                    .setHTML(HTMLContent)
-                    .addTo(map);
+                        .setLngLat(coordinates)
+                        .setHTML(HTMLContent)
+                        .addTo(map);
                 }, 300)
             }
         }
