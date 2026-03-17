@@ -248,10 +248,12 @@ map.on('load', async () => {
 
                 // Populate the popup and set its coordinates
                 // based on the feature found.
-                popup
+                setTimeout(() => {
+                    popup
                     .setLngLat(coordinates)
                     .setHTML(HTMLContent)
                     .addTo(map);
+                }, 300)
             }
         }
     });
@@ -276,12 +278,12 @@ map.on('load', async () => {
     }
 
     // close popup when clicking on something other than feature
-    /* map.on('click', (e) => {
+    map.on('click', (e) => {
         const features = map.queryRenderedFeatures(e.point, { layers: ['allStops'] });
         if (features.length === 0) {
             closePopup()
-        } */
-    }); 
+        }
+    });
 
     let windowStatus = ""
     function setWindowStatus() {

@@ -134,7 +134,7 @@ form, select, textarea, button, fieldset, h2 {
 #modal {
   position: absolute;
   bottom: -300px;
-  display: inline-block;
+  display: fixed;
   box-sizing: border-box;
   margin: auto;
   padding-bottom: 1rem;
