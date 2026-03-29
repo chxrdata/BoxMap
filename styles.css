@@ -170,6 +170,12 @@ form, select, textarea, button, fieldset, h2 {
   margin-bottom: 0.6rem;
 }
 
+.address-span {
+  font-weight: 600;
+  margin: -0.5rem 0 0.5rem 0;
+  color: gray;
+}
+
 .modular-icon, .bundle-icon, .box-icon, .address-icon {
   display: inline-block;
   height: 1rem;
@@ -180,10 +186,6 @@ form, select, textarea, button, fieldset, h2 {
   vertical-align: -0.2rem;
   margin-right: 0.2rem;
   margin-left: -0.2rem;
-}
-
-.address-icon {
-  margin-right: 0.2rem;
 }
 
 .modular-icon {
@@ -198,10 +200,7 @@ form, select, textarea, button, fieldset, h2 {
   background-image: url("icons/boxDark.png");
 }
 
-.address-icon {
-  background-image: url("icons/selectedDark.png");
-}
-.modular-tag, .bundle-tag, .box-tag, .address-tag {
+.modular-tag, .bundle-tag, .box-tag {
   display: inline-block;
   width: auto;
   padding: 0.2rem 0.4rem;
@@ -225,12 +224,6 @@ form, select, textarea, button, fieldset, h2 {
   color: #dc5309;
   background-color: #ffe0cf;
   margin-right: 0.4rem;
-}
-
-.address-tag {
-  color: #006631;
-  background-color: #bfddcc;
-  margin-top: 0.4rem;
 }
 
 .issuep {

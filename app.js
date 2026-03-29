@@ -183,7 +183,7 @@ map.on('load', async () => {
 
         //set up innerHTML
         const titleDiv = '<div class="modal-title">' + name + '</div>';
-        const addressTag = '<div class="address-tag"><span class="address-icon"></span>' + address + '</div>';
+        const addressSpan = '<div class="address-span">' + address + '</div>';
         let typeTag = '';
         let instructions = '';
         switch (type) {
@@ -201,7 +201,7 @@ map.on('load', async () => {
                 break;
         }
         const issueInstructions = '<p class="issuep">Isse with this stop? Please let us know here.</p>';
-        const HTMLContent = titleDiv + typeTag + addressTag + instructions + issueInstructions;
+        const HTMLContent = titleDiv + addressSpan + typeTag + instructions + issueInstructions;
 
         if (window.innerWidth < 768) { //mobile behavior
             // show selected feature icon
