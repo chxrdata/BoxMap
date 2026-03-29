@@ -180,6 +180,7 @@ map.on('load', async () => {
         const name = e.features[0].properties.location;
         const type = e.features[0].properties.type;
         const address = e.features[0].properties.address;
+        const id = e.features[0].properties.id;
 
         //set up innerHTML
         const titleDiv = '<div class="modal-title">' + name + '</div>';
@@ -200,7 +201,7 @@ map.on('load', async () => {
                 instructions = "<p>You can pick up a paper at the orange Alligator box.</p>";
                 break;
         }
-        const issueInstructions = '<p class="issuep">Isse with this stop? Please let us know here.</p>';
+        const issueInstructions = '<p class="issuep">Issue with this stop? Please let us know here. Location Id No. ' + id + '</p>';
         const HTMLContent = titleDiv + addressSpan + typeTag + instructions + issueInstructions;
 
         if (window.innerWidth < 768) { //mobile behavior
