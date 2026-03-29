@@ -23,8 +23,12 @@ map.on('load', async () => {
     const boxIconSmall = await map.loadImage('icons/box-small.png');
     map.addImage('orangeBoxSmall', boxIconSmall.data);
 
-    const selectedIcon = await map.loadImage('icons/selected.png');
-    map.addImage('selected', selectedIcon.data);
+    const selectedDropIcon = await map.loadImage('icons/selected-drop.png');
+    map.addImage('bundleDropSelected', selectedDropIcon.data);
+    const selectedModularIcon = await map.loadImage('icons/selected-modular.png');
+    map.addImage('modularSelected', selectedModularIcon.data);
+    const selectedBoxIcon = await map.loadImage('icons/selected-box.png');
+    map.addImage('orangeBoxSelected', selectedBoxIcon.data);
 
 
     map.addSource('stops', {
@@ -91,7 +95,7 @@ map.on('load', async () => {
         'type': 'symbol',
         'source': 'stops',
         'layout': {
-            'icon-image': 'selected',
+            'icon-image': '{type}' + 'Selected',
             'icon-size': [
                 'interpolate',
                 ['linear'],
