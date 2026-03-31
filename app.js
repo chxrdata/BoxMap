@@ -111,27 +111,72 @@ map.on('load', async () => {
     //Filter by type checkboxes
     let StopsToFilterArr = ['bundleDrop', 'modular', 'orangeBox'];
 
+    //Checkbox behavior
+    const dropCheckbox = document.getElementById('bundle');
+    let dropChecked = false;
+    const modularCheckbox = document.getElementById('modular');
+    let modularChecked = false;
+    const boxCheckbox = document.getElementById('box');
+    let boxChecked = false;
+
+    let typeFilter = [];
+
     document.getElementById('checkboxes').addEventListener('change', (e) => {
         const checkedType = e.target.value;
         const checkedState = e.target.checked;
+        switch (checkedType) {
+            case 'bundleDrop':
+                if (dropChecked) {
+                    dropCheckbox.checked = true;
+                    modularCheckbox.checked = true;
+                    boxCheckbox.checked = true;
+                    dropChecked = false;
+                    StopsToFilterArr = ['bundleDrop', 'modular', 'orangeBox'];
+                } else {
+                    dropCheckbox.checked = true;
+                    modularCheckbox.checked = false;
+                    boxCheckbox.checked = false;
+                    dropChecked = true;
+                    StopsToFilterArr = ['bundleDrop'];
+                }
+                break;
+            case 'modular':
+                if (modularChecked) {
+                    dropCheckbox.checked = true;
+                    modularCheckbox.checked = true;
+                    boxCheckbox.checked = true;
+                    modularChecked = false;
+                    StopsToFilterArr = ['bundleDrop', 'modular', 'orangeBox'];
+                } else {
+                    dropCheckbox.checked = false;
+                    modularCheckbox.checked = true;
+                    boxCheckbox.checked = false;
+                    modularChecked = true;
+                    StopsToFilterArr = ['modular'];
+                }
+                break;
+            case 'orangeBox':
+                if (boxChecked) {
+                    dropCheckbox.checked = true;
+                    modularCheckbox.checked = true;
+                    boxCheckbox.checked = true;
+                    boxChecked = false;
+                    StopsToFilterArr = ['bundleDrop', 'modular', 'orangeBox'];
+                } else {
+                    dropCheckbox.checked = false;
+                    modularCheckbox.checked = false;
+                    boxCheckbox.checked = true;
+                    boxChecked = true;
+                    StopsToFilterArr = ['orangeBox'];
+                }
+                break;
+        }
         const modal = document.getElementById("modal"); //so it can be closed
 
         modal.style.bottom = "-300px"; //close modal on legend click
 
-        //behavior based on checked or unchecked
-        if (checkedState) {
-            if (!StopsToFilterArr.includes(checkedType)) {
-                StopsToFilterArr.push(checkedType);
-            }
-        } else {
-            const index = StopsToFilterArr.indexOf(checkedType);
-            if (index > -1) {
-                StopsToFilterArr.splice(index, 1);
-            }
-        }
-
         //sets typeFilter to stops in in StopsToFilterArr
-        const typeFilter = [
+        typeFilter = [
             'any', ...StopsToFilterArr.map(type => ['==', ['get', 'type'], type])];
 
         //applies typeFilter to allStops, allStopsSmall, and selectedStop while keeping selectedStop filter
