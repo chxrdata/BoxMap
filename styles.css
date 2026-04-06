@@ -22,7 +22,7 @@ body {
   height: 6dvh;
   background-color: white;
   z-index: 2;
-  box-shadow: 0 4px 6px 0 rgba(0,0,0,0.1);
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1);
 }
 
 #header .back-btn {
@@ -47,13 +47,12 @@ body {
   position: relative;
   z-index: 2;
   background-color: white;
-  padding: 0.6rem;
+  padding: 1rem;
   margin: 1rem;
-  width: 10rem;
+  width: 11rem;
   font-size: 0.8rem;
-  line-height: 1.8rem;
   color: #1c1c1c;
-  box-shadow: 0 4px 6px 0 rgba(0,0,0,0.1);
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1);
   border-radius: 8px;
 
 }
@@ -61,13 +60,22 @@ body {
 .legend-title {
   font-size: 1.2rem;
   font-weight: 600;
-  margin-left: 0.4rem;
 }
 
-form, select, textarea, button, fieldset, h2 {
+.legend-subtitle {
+  margin: 0.4rem 0;
+  color: gray;
+}
+
+form,
+select,
+textarea,
+button,
+fieldset,
+h2 {
   all: unset;
   appearance: none;
-  outline: none; 
+  outline: none;
 }
 
 /* hide default checkboxes */
@@ -77,9 +85,13 @@ form, select, textarea, button, fieldset, h2 {
   cursor: pointer;
   height: 0;
   width: 0;
+  line-height: 1.8rem;
+  margin-left: -0.4rem;
 }
 
-#bundleCheckmark, #modularCheckmark, #boxCheckmark {
+#bundleCheckmark,
+#modularCheckmark,
+#boxCheckmark {
   display: inline-block;
   margin-right: 0.4rem;
   vertical-align: -0.5rem;
@@ -103,15 +115,15 @@ form, select, textarea, button, fieldset, h2 {
   background-image: url("icons/boxUnchecked.png")
 }
 
-#bundle:checked ~ label #bundleCheckmark {
+#bundle:checked~label #bundleCheckmark {
   background-image: url("icons/dropChecked.png");
 }
 
-#modular:checked ~ label #modularCheckmark {
+#modular:checked~label #modularCheckmark {
   background-image: url("icons/modularChecked.png");
 }
 
-#box:checked ~ label #boxCheckmark {
+#box:checked~label #boxCheckmark {
   background-image: url("icons/boxChecked.png");
 }
 
@@ -144,7 +156,7 @@ form, select, textarea, button, fieldset, h2 {
   height: auto;
   padding: 1rem;
   border-radius: 20px 20px 0 0;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   transition: bottom 0.5s;
 }
 
@@ -176,7 +188,10 @@ form, select, textarea, button, fieldset, h2 {
   color: gray;
 }
 
-.modular-icon, .bundle-icon, .box-icon, .address-icon {
+.modular-icon,
+.bundle-icon,
+.box-icon,
+.address-icon {
   display: inline-block;
   height: 1rem;
   width: 1rem;
@@ -200,7 +215,9 @@ form, select, textarea, button, fieldset, h2 {
   background-image: url("icons/boxDark.png");
 }
 
-.modular-tag, .bundle-tag, .box-tag {
+.modular-tag,
+.bundle-tag,
+.box-tag {
   display: inline-block;
   width: auto;
   padding: 0.2rem 0.4rem;
@@ -232,8 +249,12 @@ form, select, textarea, button, fieldset, h2 {
   margin-top: -0.5rem;
 }
 
+.issuep a {
+  color: gray;
+}
+
 @media screen and (min-width: 768px) {
-    .modal-title {
-      line-height: 1.5rem
+  .modal-title {
+    line-height: 1.5rem
   }
 }

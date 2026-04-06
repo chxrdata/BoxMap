@@ -113,60 +113,61 @@ map.on('load', async () => {
 
     //Checkbox behavior
     const dropCheckbox = document.getElementById('bundle');
-    let dropChecked = false;
     const modularCheckbox = document.getElementById('modular');
-    let modularChecked = false;
     const boxCheckbox = document.getElementById('box');
-    let boxChecked = false;
 
     let typeFilter = [];
+
+    let isolatingState = false
 
     document.getElementById('checkboxes').addEventListener('change', (e) => {
         const checkedType = e.target.value;
         const checkedState = e.target.checked;
+        
         switch (checkedType) {
             case 'bundleDrop':
-                if (dropChecked) {
+                if (checkedState || isolatingState) {
                     dropCheckbox.checked = true;
                     modularCheckbox.checked = true;
                     boxCheckbox.checked = true;
-                    dropChecked = false;
+                    isolatingState = false;
                     StopsToFilterArr = ['bundleDrop', 'modular', 'orangeBox'];
                 } else {
                     dropCheckbox.checked = true;
                     modularCheckbox.checked = false;
                     boxCheckbox.checked = false;
                     dropChecked = true;
+                    isolatingState = true;
                     StopsToFilterArr = ['bundleDrop'];
                 }
                 break;
             case 'modular':
-                if (modularChecked) {
+                if (checkedState || isolatingState) {
                     dropCheckbox.checked = true;
                     modularCheckbox.checked = true;
                     boxCheckbox.checked = true;
-                    modularChecked = false;
+                    isolatingState = false;
                     StopsToFilterArr = ['bundleDrop', 'modular', 'orangeBox'];
                 } else {
                     dropCheckbox.checked = false;
                     modularCheckbox.checked = true;
                     boxCheckbox.checked = false;
-                    modularChecked = true;
+                    isolatingState = true;
                     StopsToFilterArr = ['modular'];
                 }
                 break;
             case 'orangeBox':
-                if (boxChecked) {
+                if (checkedState || isolatingState) {
                     dropCheckbox.checked = true;
                     modularCheckbox.checked = true;
                     boxCheckbox.checked = true;
-                    boxChecked = false;
+                    isolatingState = false;
                     StopsToFilterArr = ['bundleDrop', 'modular', 'orangeBox'];
                 } else {
                     dropCheckbox.checked = false;
                     modularCheckbox.checked = false;
                     boxCheckbox.checked = true;
-                    boxChecked = true;
+                    isolatingState = true;
                     StopsToFilterArr = ['orangeBox'];
                 }
                 break;
@@ -246,7 +247,7 @@ map.on('load', async () => {
                 instructions = "<p>You can pick up a paper at the orange Alligator box.</p>";
                 break;
         }
-        const issueInstructions = '<p class="issuep">Issue with this stop? Please let us know here. Location Id No. ' + id + '</p>';
+        const issueInstructions = '<p class="issuep">Issue with this stop? Please let us know <a href="https://forms.gle/FA3NitUk7pcpUQRt9" target="blank">here</a>. Id No. ' + id + '</p>';
         const HTMLContent = titleDiv + addressSpan + typeTag + instructions + issueInstructions;
 
         if (window.innerWidth < 768) { //mobile behavior
