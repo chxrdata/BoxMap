@@ -33,7 +33,7 @@ map.on('load', async () => {
 
     map.addSource('stops', {
         'type': 'geojson',
-        'data': 'stops030126.geojson',
+        'data': 'stops062826.geojson',
     }
     );
 
